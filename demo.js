@@ -1,2 +1,2 @@
-var x = 100;
-document.write(x);
+elem = document.getElementById("paragraph");
+elem.innerHTML = "Hello World";
